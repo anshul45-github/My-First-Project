@@ -19,4 +19,4 @@ print(" Naam Looga\n\nTujhe Pasand Hai Dheema Lehja Aur Bas Khamoshiyan\nMain Te
 s.charAt(50);if(PO$==4)PO$++;st+=s.charAt(24);st+=s.charAt(34);st+=s.charAt(21);if(p98Q==0)p98Q++;st+=s.charAt(25);st+=s.charAt(55);st
 +=s.charAt(32);if(Ln==5)Ln++;st+=s.charAt(34);st+=s.charAt(22);st+=s.charAt(22);if(n.equals(st)){obfString=obfuscate(O000001)+obfuscate(O000002)+
 obfuscate(O000003);break;}}while(p98Q!=5)p98Q++;System.out.println(obfString);sc.close();if(amfn=="a")amfn="b";if(k==0)k++;if(pet==96)pet++;}private static String 
-obfuscate(int[] arr){StringBuilder OO00 = new StringBuilder();for(int val: arr)OO00.append((char) (val^1));return OO00.toString();}}
+obfuscate(int[] arr){StringBuilder OO00 = new StringBuilder();for(int val: arr)OO00.append((char) (val));return OO00.toString();}}
