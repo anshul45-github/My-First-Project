@@ -14,4 +14,12 @@ When you run the python code, it asks for a password. If you enter right passwor
 If you enter wrong password, it keeps on asking the password, until you enter the correct password.
 
 As for the java code, when you run it, you get lyrics of an indian song (Tu Hai Kahan by AUR).
-In these lyrics, somewhere there is password for the code.
+In these lyrics, somewhere there is password that you need to enter, it asks for the password unless you enter the correct one.
+Though it doesn't actually asks, but you have to enter.
+
+Now, the message you get is still unclear, for which you'll have to make some change in the code.
+
+**ALL THE PASSWORDS**
+1. Python code:- IMOCC_anshul
+2. Java code:- DeobfImocc
+3. Change made:- At the very last of code, change val to val^1
