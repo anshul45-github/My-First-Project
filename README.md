@@ -21,6 +21,13 @@ Though it doesn't actually asks, but you have to enter.
 
 Now, the message you get is still unclear, for which you'll have to make some change in the code.
 
+**TECHNIQUES USED TO OBFUSCATE THE CODE**
+1. I have changed the names of variables and functions to arbitrary or meaningless identifiers.
+2. I have added redundant code.
+3. I have encrypted the string literals in the code to make it difficult to discern their meaning. The decryption logic is typically included in the code to dynamically reveal the original strings during runtime.
+4. I have inserted bogus conditional statements and loops to confuse the logical flow of the code.
+5. I have added few sections of code that are never executed, making it harder for the reader to discern the essential parts of the program.
+
 **ALL THE PASSWORDS**
 1. Python code:- IMOCC_anshul
 2. Java code:- DeobfImocc
