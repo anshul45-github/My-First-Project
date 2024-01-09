@@ -8,6 +8,8 @@ For deobfuscating this code, you not only have to crack the key but also make a 
 
 ---------------In case, you are stuck somewhere, then at the end I'll list all the passwords and methods to deobfuscate the codes-----------------
 
+**NOTE:-** No obfuscation tools have been used to obfuscate the code. No AI tools have been used to structure the code.
+
 **DETAILED EXPLANATION**
 
 When you run the python code, it asks for a password. If you enter right password, it tells you the key to access the java code.
