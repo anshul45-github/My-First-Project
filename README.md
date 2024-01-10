@@ -6,7 +6,7 @@ So, first of all when you run the buffer.py file, it asks for a password, which 
 Through that password you get access to the java code.
 For deobfuscating this code, you not only have to crack the key but also make a change in the code.
 
----------------In case, you are stuck somewhere, then at the end I'll list all the passwords and methods to deobfuscate the codes-----------------
+------------In case, you are stuck somewhere, then at the end I'll list all the passwords and methods to deobfuscate the codes--------------
 
 **NOTE:-** No obfuscation tools have been used to obfuscate the code. No AI tools have been used to structure the code.
 
